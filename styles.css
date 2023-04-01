@@ -1,0 +1,23 @@
+img{
+    margin: auto;
+    width: 118px;
+}
+#base{
+    padding: 0;
+    margin: 0;
+    border: 1px solid hsl(148, 20%, 84%) !important;
+}
+button{
+    background-color: rgb(215, 214, 214) !important;
+    border-radius: 0 !important;
+    color: blue !important;
+}
+#vin{
+    border: 1px solid hsl(148, 20%, 84%) !important;
+    width: 90%;
+}
+#arrow{
+    width: 48px;
+    transform: translateX(180px);
+    filter: invert(48%) sepia(19%) saturate(476%) hue-rotate(886deg) brightness(88%) contrast(219%);
+}
